@@ -1,7 +1,7 @@
 ## Olá 👋,  me chamo Luiz!
 ##
 
-- 🔭 Ainda não trabalhei na area.
-- 🌱 Estudando JAVA e MySQL
+- Trabalho com migração de Banco de Dados na Trier Sistemas!
+- 🌱 Estudando HTML, CSS e JavaScript
 - 📖 Contato: luiz.schr2@gmail.com
 - 
